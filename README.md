@@ -7,10 +7,11 @@
 * AWS Cloud9
 * Ruby
 * Rails
-* Git
+* Git (HTTPSからSSH通信へ変更)
 * 
 
-
+# 2021/03/29 Change from HTTPS to SSH
+# 2021/03/26 Finish edit-attendances
 # 2021/03/25 Finish add-user-attendances
 # 2021/03/18 Finish add-basic-info
 # 2021/03/16 Finish japanization-and-time-format
